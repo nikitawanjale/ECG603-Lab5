@@ -1,3 +1,8 @@
+/*
+Lab05_T02 Change the ADC Sequencer to SS2. Turn on the LED at PF1 if the temperature is greater
+that 80 deg-F.
+*/
+
 #include <stdint.h>
 #include <stdbool.h>
 #include "inc/tm4c123gh6pm.h"
